@@ -86,20 +86,19 @@ Un videojuego en desarrollo donde busco combinar creatividad, diseño visual y m
 
 </table>
 
----
+<div align="center">
 
-## 🌷 Estadísticas
+### 🌸 Mi actividad en GitHub 🌸
 
-<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahilytech&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff7eb6&icon_color=cdb4ff&text_color=7c5cb3"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilytech&layout=compact&hide_border=true&bg_color=00000000&title_color=ff7eb6&text_color=7c5cb3"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent"/>
+<br><br>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=Sahilytech&hide_border=true&background=FFFFFF00&ring=ff7eb6&fire=cdb4ff&currStreakLabel=ff7eb6"/>
 
----
-
+</div>
 <div align="center">
 
 ### ˗ˋˏ ♡ ˎˊ˗ Gracias por visitar mi perfil ˗ˋˏ ♡ ˎˊ˗
