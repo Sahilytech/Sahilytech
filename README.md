@@ -1,4 +1,4 @@
-# Hola, soy Sarah Lee Olivera ✨🐣
+# Hola, soy Sarah Lee Olivera ✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=IT+Support+%7C+Python+%7C+Linux;Networking+%7C+Automation" alt="typing"/>
